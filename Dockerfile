@@ -1,4 +1,4 @@
-ARG VERSION=v0.10.10-blake2b.1
+ARG VERSION=v0.10.10-blake2b.2
 
 FROM rust:1.85-slim-bookworm AS builder
 
